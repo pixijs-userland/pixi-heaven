@@ -6,11 +6,11 @@ This is heaven for sprites. Want to color them better? Wanna use advanced colors
 
 Works with PixiJS v7
 
-For v6 please see [v6.x branch](https://github.com/gameofbombs/pixi-heaven/tree/v6.x), npm version `0.3.3`
+For v6 please see [v6.x branch](https://github.com/pixijs-userland/pixi-heaven/tree/v6.x), npm version `0.3.3`
 
-For v5 please see [v5.x branch](https://github.com/gameofbombs/pixi-heaven/tree/v5.x), npm version `0.2.3`
+For v5 please see [v5.x branch](https://github.com/pixijs-userland/pixi-heaven/tree/v5.x), npm version `0.2.3`
 
-For v4 please see [v4.x branch](https://github.com/gameofbombs/pixi-heaven/tree/v4.x), npm version `0.1.21`
+For v4 please see [v4.x branch](https://github.com/pixijs-userland/pixi-heaven/tree/v4.x), npm version `0.1.21`
 
 
 [Examples](https://pixijs.io/examples/#/plugin-heaven/invert.js)
@@ -165,7 +165,7 @@ sprite2.renderable = false; //turn off rendering
 Batching works with spine, just enable maskSprite in any sprite or mesh of spine instance,
 all `pluginName`'s will be adjusted automagically.
 
-Look at [Spine file](https://github.com/gameofbombs/pixi-heaven/blob/master/src/z_spine/Spine.ts) to see
+Look at [Spine file](https://github.com/pixijs-userland/pixi-heaven/blob/master/src/z_spine/Spine.ts) to see
 how it actually works.
 
 ## Vanilla JS, UMD build
