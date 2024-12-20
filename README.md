@@ -1,6 +1,6 @@
 # pixi-heaven
 
-[![Build](https://github.com/pixijs/pixi-heaven/workflows/Build/badge.svg)](https://github.com/pixijs/pixi-heaven/actions?query=workflow%3A%22Build%22) [![npm version](https://badge.fury.io/js/%40pixi%2Fpixi-heaven.svg)](https://badge.fury.io/js/%40pixi%2Fpixi-heaven)
+[![Build](https://github.com/pixijs-userland/pixi-heaven/workflows/Build/badge.svg)](https://github.com/pixijs-userland/pixi-heaven/actions?query=workflow%3A%22Build%22) [![npm version](https://badge.fury.io/js/%40pixi%2Fpixi-heaven.svg)](https://badge.fury.io/js/%40pixi%2Fpixi-heaven)
 
 This is heaven for sprites. Want to color them better? Wanna use advanced colors? Its all here!
 
@@ -13,7 +13,7 @@ For v5 please see [v5.x branch](https://github.com/gameofbombs/pixi-heaven/tree/
 For v4 please see [v4.x branch](https://github.com/gameofbombs/pixi-heaven/tree/v4.x), npm version `0.1.21`
 
 
-[Examples](https://pixijs.github.io/examples/#/plugin-heaven/invert.js)
+[Examples](https://pixijs.io/examples/#/plugin-heaven/invert.js)
 
 Done:
 
